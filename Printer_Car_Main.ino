@@ -1,6 +1,6 @@
 // By Jordan1678
 // Printer Racer
-// Github:
+// Github: https://github.com/Jordan1678/Printer-Car
 
 
 //define the pins
